@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @azozz88
+# 👋 Hi, I'm Abdullaziz Youssef
 
 I'm a versatile developer with a passion for multiple programming languages and technologies. My diverse skill set allows me to tackle various projects across different platforms.
 
@@ -32,12 +32,6 @@ I'm a versatile developer with a passion for multiple programming languages and 
 
 ## 📫 How to reach me
 - GitHub: [@azozz88](https://github.com/azozz88)
-
-## 😄 Pronouns
-[Add your pronouns here]
-
-## ⚡ Fun fact
-[Add an interesting fact about yourself - perhaps related to coding, tech, or a personal achievement]
 
 ---
 
